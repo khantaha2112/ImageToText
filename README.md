@@ -1,6 +1,7 @@
 # ImageToText - IITD Assignment
 
-Demo Link : 
+Testing Video :
+https://github.com/khantaha2112/ImageToText/assets/110721493/e168f3a5-b8bb-43ea-98c5-4554ddb109f8
 
 ImageToText is a web application that utilizes Optical Character Recognition (OCR) technology to extract text from images. It provides a simple and intuitive interface for users to upload images, extract text, and optionally view bounding boxes for specific types of text elements such as words, lines, paragraphs, blocks, or pages.
 
