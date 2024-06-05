@@ -3,8 +3,11 @@ const multer = require("multer");
 const tesseract = require("node-tesseract-ocr");
 const path = require("path");
 const fs = require("fs");
+const cors = require("cors");
 
 const app = express();
+
+app.use(cors())
 const uploadDir = path.join(__dirname, "uploads");
 
 // Ensure the uploads directory exists
